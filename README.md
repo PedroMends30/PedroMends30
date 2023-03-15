@@ -28,6 +28,5 @@ Atualmente atuo em projetos usando: Aprendizado Intermediário em PHP;Orientaç�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedromends30&theme=dark&hide_border=false">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedromends30&theme=light&hide_border=false">
-  <img alt="Stats usando modo claro e escuro" src="">
+  <img alt="Stats usando modo claro e escuro" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromends30&theme=light&hide_border=false">
 </picture>
-
